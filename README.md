@@ -1,7 +1,5 @@
 # get_ipos
 
-Get the ipos listed on top exchanges with easy to use pacakge.
-
 Exchanges Covered :-
 
 - NYSE
