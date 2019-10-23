@@ -3,5 +3,5 @@ certifi==2018.4.16
 chardet==3.0.4
 pandas==0.23.3
 python-dateutil==2.7.3
-requests==2.19.1
+requests==2.20.0
 selenium==3.13.0
